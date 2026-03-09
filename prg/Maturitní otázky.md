@@ -1,4 +1,4 @@
-## [[1. algoritmizace a programování]]
+## [[1. Algoritmizace a programování]]
 * Postup při řešení problému
 * Definice a vlastnosti algoritmu
 * Možnosti zápisu algoritmu
