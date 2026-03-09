@@ -1,0 +1,63 @@
+# Lakomec
+# Autor
+- *Jméno Autora:* 
+	- Jean Baptiste Poquelin
+- *Zařazení autora do uměleckého směru:*
+	- Klasicismus
+- *Určete století, ve kterém autor tvořil:*
+	- Polovina 17. století
+- *Životní osudy autora:*
+	- Francouzský dramatik
+	- Dobré rodinné zázemí => vzdělaný
+	- ředitel divadelní společnosti
+	- autor komedií a frašek -> kritizoval tehdejší společnost - pokrytectví, přetvářku, vrstevní společnost -> stalo se mu to osobní
+	- smrt na jevišti
+- *další autoři stejného uměleckého směru:*
+	- Carlo Goldani, Jean dela Fontaine, Jean Racine, Pierre Corneille
+- *názvy dalších autorových děj:*
+	  Tartuffe, Misantrop (yours truly :3), Zdravý Nemocný, Don Juan
+# Charakteristika uměleckého textu jako celku
+- *Druh/Forma/Žánr:*
+	- drama/prozaické drama/komedie
+- *dominantní slohový postup:*
+	- vyprávěcí
+- *typ vypravěče/lyrického subjektu:*
+	- er forma, drama, repliky postav
+- *Vysvětlení názvu díla:*
+	- Harpagon je píča lakomá :3
+- *Posouzení aktuálnosti díla:*
+	- poukazuje na špatné vlastnosti lidí, intriky v rodině, lichvářství
+- *určení místa a času textu:*
+	- Paříz 1670
+- *kompozice díla:*
+	- *Textová:* 5 dějství, jednání/výstupy
+	- *Časová:* chronologická + retrospektivní chvilka na konci
+- *hlavní téma a dílčí motivy díla:*
+	- Lakomství | Láska, paranoia, nenávist, Lakota
+- *hlavní a vedlejší postavy + stručná charakteristika:*
+	- Harpagon
+		- Lakomý, bohatý měšťan, jehož posedlost penězi ovlivňuje celý jeho život. Je bezohledný, manipuluje svými dětmi a vztahy obětuje ve prospěch zisku.
+	- Eliška
+		- Harpagonova dcera, citlivá a milující. Je zamilovaná do Valéra, ale její otec ji chce provdat za bohatého Anselma, aby ušetřil na věnu.
+	- Kleantes
+		- Harpagonův syn, šarmantní a odvážný. Miluje Marianu a je ochoten vzdorovat otcově tyranii, aby si ji mohl vzít.
+	- Frozína
+		- Vychytralá dohazovačka, která se snaží manipulovat s postavami podle svých potřeb a vydělat na každé situaci.
+	- Čipera
+		- Kleantův věrný sluha. Chytrý a vynalézavý, pomáhá svému pánovi v jeho plánech.
+	- Mariana
+		- Mladá žena, kterou miluje Kleantes. Pochází z chudých poměrů, což ji činí závislou na Harpagonových rozhodnutích.
+	- Valér
+		- Mladý muž zamilovaný do Elišky. Pracuje u Harpagona, aby byl blízko své milé, a jeho skutečný původ je odhalen v závěru hry.
+	- Anselm
+		- Bohatý muž, kterého Harpagon vybral za manžela pro Elišku. Nakonec se ukáže, že je otcem Valéra a Mariany, což přináší šťastný obrat.
+- *stručné nastínění děje:*
+	- Harpagon, chorobně lakomý měšťan, plánuje provdat svou dceru Elišku za bohatého staršího muže Anselma bez věna, aby ušetřil. Zároveň si sám chce vzít Marianu, mladou ženu, kterou však miluje jeho syn Kleantes. Eliška je tajně zasnoubená s Valérem, který se kvůli ní uchází o místo u Harpagona. Děj se zamotává, když Kleantes se svým sluhou Čiperou odcizí Harpagonovu truhlu s penězi, aby ho přiměli ustoupit ze svých plánů. Harpagon je posedlý hledáním své pokladnice a je ochoten se všeho vzdát, pokud mu ji vrátí. V závěru hry se odhalí, že Anselm je otcem Valéra a Mariany, čímž se vyřeší vztahové konflikty. Harpagon dostane svou truhlu zpět, ale zůstává sám, zatímco mladí milenci slaví šťastný konec.
+- *tématicky podobné dílo:*
+	- Plautus - Komedie a Hrnec
+- *porovnání s filmovou verzí:*
+	- Luis de Funés
+		- František Filipovský
+		- Viktor Preiss
+	- Divadla: Bezruč (Norbert tichý), Divadlo mír - Vlad Polák
+	- Lakomec 1980

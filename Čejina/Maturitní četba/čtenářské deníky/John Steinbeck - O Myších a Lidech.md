@@ -1,0 +1,116 @@
+	17. 10. Test :>
+# Autor
+- *Jméno Autora:* John Steinbeck
+- *Zařazení autora do uměleckého směru:* Americká, Ztracená Generace - (viz. **Hemingway (USA)**, Remarque), Realismus, často označován i jako sociální realismus / naturalismus.
+- *Určete století, ve kterém autor tvořil:* 1. 1/2 20. století (Světové války, hospodářské krize)
+- *Životní osudy autora:*
+	- Americký Spisovatel
+	- Nobelova Cena
+	- Pullitzerova Cena - Hrozny Hněvu
+	- Těžké dětství (finanční potíže rodiny)
+		- Jako školák pomáhal na farmě (inspirace pro tvorbu)
+	- Studoval VŠ - Odešel do města bohémů - San Francisco
+		- Opustil univerzitu - uvědomil si, že ho to nenaplňuje
+	- Odjel z SF do NY, kde se rozhodl stát se spisovatelem
+		- Prošel různými profesemi, vystřídal mnoho zaměstnání (dělník v továrnách, pracoval na stavbách, jezdil jako námořník na parnících) -> Ovlivnilo jeho tvorbu
+- *další autoři stejného uměleckého směru:* Ernest Hemingway (Ztracená generace), Remarque, Roman Rolland, Francis Scott Fitzgerald (The Great Gatsby)
+- *názvy dalších autorových děj:*
+	- **Perla** - Novela
+	- **Hrozny hněvu** (The Grapes of Wrath) - Osudy zemědělců, farmářů, jejich rodin, snaha mít americký sen
+	- **Na východ od ráje** (East of Eden) - Inspirace biblickým motivem příběhu Caine-a a Abela (První vražda, bratrovražda, Cainovi bylo dáno znamení aby nikdy nenašel klid)
+	- Toulavý autobus (The Wayward Bus)
+	- Pláň Tortilla (Tortilla Flat)
+	- **Na plechárně (Cannery Row)** - román z prostředí továrny na výrobu konzerv
+	- Sladký čtvrtek (Sweet Thursday)
+	- Nepřátelé (The Moon is Down)
+---
+# Charakteristika uměleckého textu jako celku
+- *Druh/Forma/Žánr:* Epika, Próza, novela
+- *dominantní slohový postup:* Vyprávěcí, časté dialogy
+- *typ vypravěče/lyrického subjektu:* er forma, objektivní vypravěč
+- *Vysvětlení názvu díla:* Jedna z hlavních postav má návyk sbírat a hladit myši (+ je nosit po kapsách), dále se dílo soustředí na lidi a jejich vztahy
+- *Posouzení aktuálnosti díla:* Aktuální v sociálních vztazích (diskriminace menšin), zničené sny, umlčení, těžká práce (1. 1/2 20. st.), Americký sen
+- *určení místa a času textu:* Autorova současnost / Hospodářská krize (1929), Amerika - Kalifonie - převážně ranč a pak tůně poblíž (**Vrbičky**)
+- *kompozice díla:*
+	- *Textová:* 6 kapitol, arabské číslice
+	- *Časová:* Chronologická
+- *Dominantní slohový postup*: Vyprávěcí, Úvahový (třeba to jak přemýšlí crooks jaký má život)
+- *hlavní téma a dílčí motivy díla:*
+	- Přátelství
+	- Zrada, Diskriminace, nešťastná láska, western, práce, iluze o budoucnosti, předsudky, smrt
+- *hlavní a vedlejší postavy + stručná charakteristika:*
+	- Hlavní Postavy:
+		- **George Milton** - Malý, starostlivý o svého kamaráda, i když ho to stojí nervy, chytrý, "číman", pracovitý, sní o vlastní farmě
+		- **Lennie Small** (V didakťáku občas Lenda, Jiří) - Velký silný, ale mentálně postižený, závisí naprosto na svém kamarádovi Georgovi, velmi nevinný, neublížil by mouše, ale neuvědomuje si své síly, rád hladí hebké věci (Samet, srst, vlasy), sní o králících a mazlíčcích, "člověk, kterého bůh nedodělal"
+	- Vedlejší Postavy
+		- **Candy** (Starý uklízeč) - Dlouho pracoval na ranči, na začátku měl starého psa, chyběla mu ruka, už se zmůže jen na úklid, je hodný, ale nešťastný, chce se přidat k Georgovi a Lenniemu v koupi vlastní farmy
+		- **Curley** - Syn majitele ranče, Boxer, agresivní, narcistický, napoleonův komplex
+		- **Curleyho žena** - Vystupuje promiskuitně, nemá ráda svého manžela, mohla být v divadle, to jí však zamítla matka, mohla být ve filmu, ale nikam to nedošlo (možná taky díky matce), vypadá, že má zálusk na Slima
+		- **Slim** - Schopný, dobře stavený, spravedlivý, autorita na ranči, kočí, velmi chápavý, klidný, chápe Georgův závěrečný čin
+		- **Crooks** - Afroameričan, diskriminovaný, osamělý, kvůli rasismu žije sám, touží po lidské blízkosti
+		- **Carlson** - Obtloustlý, razantnějšího charakteru, zastřelí psa od Candyho 
+		- **Vlastník Ranče** - Otec Curleyho, potencionálně mohl vyhodit hlavní postavy z práce, Nevystupuje v knize přímo
+		- **Starý pár s domem** - zmíněni jen okrajově; jejich domek je součástí snu George a Lennieho o vlastním hospodářství.
+- *stručné nastínění děje:*
+	- Kapitola 1 – U řeky
+		- George a Lennie se schovávají u řeky u bývalé farmy po útěku z města **Weed**, kde Lennie neúmyslně chytil ženu za šaty.  
+		- Lennie miluje hladit hebké věci (srst, samet), což ho dostává do problémů.  
+		- George vypráví o jejich **snu vlastního pozemku**, kde by mohli být svobodní a Lennie by mohl chovat králíky.  
+		- **Motiv:** nevinnost vs. realita; přátelství a zodpovědnost.  
+	- Kapitola 2
+		- Ranč je drsné prostředí: dělníci tvrdě pracují, majitelé i Curley diktují pravidla.  
+		- Lennie je hned cílem Curleyho agrese.  
+		- George varuje Lennieho, aby nedělal problémy a držel se stranou konfliktů.  
+		- **Motiv:** sociální hierarchie, napětí mezi slabými a silnými.  
+	- Kapitola 3 – Ranč a přátelství
+		- Slim je respektovanou autoritou, George mu důvěřuje.  
+		- Candyův pes je zastřelen, což symbolizuje krutost světa a osamělost starých/slabých.  
+		- George a Lennie se stále více sdílejí o svém snu, Candy se k nim přidává a nabývá naděje na lepší život.  
+		- **Motiv:** sen jako únik z reality; přátelství a solidarita.  
+	- Kapitola 4 – Crooks
+		- Crooks je rasově diskriminovaný a izolovaný v samostatné místnosti.  
+		- Lennie ho navštěvuje, Candy a později i Curleyho žena se setkávají s Crooksem.  
+		- Diskutují o snech, osamělosti a nemožnosti vlastního pozemku pro lidi z „nižších vrstev společnosti“.  
+		- **Motiv:** rasismus, izolace, lidská touha po přijetí.  
+	- Kapitola 5 – Tragedie
+		- Lennie se snaží hladit Curleyho ženu, která se baví a neuvědomuje si jeho sílu.  
+		- Neúmyslně ji zabije (zlomení krku).  
+		- **Konflikt:** nevinnost vs. destruktivní síla, důsledky společenských omezení.  
+	- Kapitola 6 – Závěr
+		- George najde Lennieho u řeky, kde se chystal schovat.  
+		- Rozhodne se Lennieho zastřelit, aby ho ochránil před lynčováním Curleyho a rančerských lidí.  
+		- Závěr ukazuje **tragedii snů**, osamělost a krutou realitu, kde slabí nemají šanci přežít.  
+		- **Symbolika:** pes – Lennie, sen o farmě – naděje a iluze, Lennieho smrt – konec nevinnosti.
+- *tématicky podobné dílo:*
+	- Farma Zvířat - Farma
+	- Krysař - Sepp (Zaostalost)
+	- Stařec a Moře - tvrdá práce
+	- Malý Princ - Smrt na konci, Průvodcovství (Pilot a Lyška provádí malého prince, George Lennieho)
+- *porovnání s filmovou verzí:*
+	- Filmová adaptace 1992
+
+---
+# Charakteristika ukázky
+![[Pasted image 20251012193953.png]]
+- *ze které části knihy je ukázka:* 5. Kapitola, ke konci
+- *jaké je téma ukázky:* Smrt Curleyho ženy
+- *co předcházelo a co bude následovat:* 
+	- Předcházelo: Curleyho žena příjde za Lenniem a nutí ho se s ní bavit
+	- Bude následovat: Lennie uteče :) (k vrbičkám)
+- *charakteristika vystupujících postav v ukázce:* 
+	- Curleyho žena: mrtvá lol
+	- Štěně: Taky mrtvé
+	- Lennie: Vystrašený, bojí se následků, ale neuvědomuje si, co způsobil (jak Sepp Jergen - Krysař)
+- *kompozice (textová, časová) ukázky:*
+	- Odstavce
+	- Chronologická
+- *vyprávěcí postupy - typy promluv v ukázce:* 
+	- Přímá řeč, monolog, er forma
+- *použité jazykové prostředky/tropy a figury v ukázce:*
+	- 1. Přímá řeč
+	- 2. Zdrobnělina
+	- 3. Apoziopeze
+	- 4. epiteton
+	- 5. knižní výraz
+	- 6. Paralelismus
+- Obecná čeština -> poukazuje na nevzdělanost

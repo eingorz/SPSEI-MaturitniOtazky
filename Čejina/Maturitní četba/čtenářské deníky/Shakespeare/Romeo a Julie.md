@@ -1,0 +1,51 @@
+# Romeo a Julie
+# Autor
+- *Jméno Autora:* 
+	- William Shakespeare (1564 - 1616)
+- *Zařazení autora do uměleckého směru:*
+	- Renesance, Humanismus
+- *Životní osudy autora:*
+	- Anglický dramatik, syn rukavičkáře, oženěn v 18ti s Annou Hathaway => 3 děti -> Hamnet, Judith, Susan
+- *další autoři stejného uměleckého směru:*
+	- Francesco Petrarca, Franois Villon
+- *názvy dalších autorových děj:*
+	- Hamlet, Macbeth, Othello, Kupec Benátský, Zkrocení zlé ženy
+# Charakteristika uměleckého textu jako celku
+- *Druh/Forma/Žánr:* 
+	- drama, veršované drama (5 dějství), tragédie
+- *dominantní slohový postup:*
+	- vyprávěcí, popisný
+- *typ vypravěče/lyrického subjektu:*
+	- ich-forma (repliky postav), CHORUS => sbor
+- *Vysvětlení názvu díla*
+	- hlavní postavy
+- *Posouzení aktuálnosti díla:*
+	- hloupé spory, schopnost se vzepřít, zakázaná láska (umělka a ajťák lmfao)
+- *určení místa a času textu:*
+	- 2. polovina 16. století, Verona, Mantua, Itálie
+- *kompozice díla:*
+	- *Textová:* 5 dějství, repliky, jednání, verše
+	- *Časová:* chronologické
+- *hlavní téma a dílčí motivy díla:* Láska, vražda, rodinné spory, pomsta, tragédie, přátelství, domluvené sňatky
+- *hlavní a vedlejší postavy + stručná charakteristika:* 
+	- Hlavní postavy:
+			- Romeo Montek – Syn Monteků, romantik, impulzivní, hluboce miluje Julii.
+			- Julie Kapuletová – Dcera Kapuletů, mladá, odvážná, láska k Romeovi jí změní život.
+		- Vedlejší postavy:
+			- Bratr Lorenzo (Vavřinec) – Mnich, usiluje o smír, plánuje tajný sňatek, jeho plány selžou.
+			- Chůva – Julieina služebná, loajální, starostlivá, někdy povrchní.
+			- Rodiče – Představitelé rodů, jejich nenávist pohání konflikt.
+			- Tybalt – Juliein bratranec, výbušný, nenávidí Montekovy, vyvolá konflikt.
+			- Paris – Juliein nápadník, šlechtic, miluje ji, ale jednostranně.
+			- Rosalina – Romeova první láska, neopětovaná.
+			- Merkucio – Romeův přítel, vtipný, sarkastický, tragicky zemře.
+			- Benvolio – Romeův bratranec, smířlivý, klidný.
+			- Lékárník – Chudý muž, prodá Romeovi jed.
+- *stručné nastínění děje:*
+  - Příběh se odehrává ve Veroně, kde mezi dvěma urozenými rody, Monteky a Kapulety, zuří odvěká nenávist. Romeo a Julie, členové těchto znepřátelených rodů, se navzdory všemu zamilují. Tajně se vezmou, ale jejich štěstí přeruší tragická smrt Tybalta, kterého Romeo zabije v duelu. Romeo je vykázán z Verony, což ještě více komplikuje situaci. Lorenzo naplánuje, že Julie předstírá smrt, aby mohla uprchnout s Romeem. Plán však selže kvůli nedoručenému dopisu, a když se Romeo dozví o Juliině zdánlivé smrti, spáchá sebevraždu. Julie, probuzená z bezvědomí, najde Romea mrtvého a také si vezme život. Jejich tragická smrt nakonec přiměje rodiny ke smíru.
+- *tématicky podobné dílo:*
+	- Romeo Julie a Tma - Jan Otčenášek
+- *porovnání s filmovou verzí:*
+	- 1968 - Franco Zeffirelli (Režisér)
+	- 1996 - Leonardo DiCaprio
+	- Shakespearovské slavnosti (Ostrava, Brno, Praha)

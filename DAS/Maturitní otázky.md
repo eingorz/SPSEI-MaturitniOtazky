@@ -1,0 +1,16 @@
+1. Databázový systém (DAS)
+2. E-R model (DAS)
+3. Fáze definování databáze, normalizace (DAS)
+4. Databázové jazyky – jazyk SQL (DAS)
+5. Jazyk SQL – příkaz SELECT (DAS)
+6. Jazyk SQL – příkaz SELECT - vnořené dotazy, pohledy(DAS)
+7. Jazyk pro definici dat DDL (DAS)
+8. Jazyk pro manipulaci s daty DML (DAS)
+9. Databázový systém MySQL – prostředí Workbench (DAS)
+10. Návrh E-R modelu v prostředí Workbench (DAS)
+11. Zpracování dat v MySQL (DAS), správa uživatelů
+12. Tabulka v MS Access– obecné a vyhledávací vlastnosti, relace(DAS)
+13. Dotazy, dotaz s parametrem a křížový dotaz, výkonné dotazy v MS Access (DAS)
+14. Formuláře v MS Access – vlastnosti, formulář s podformulářem, vstupní formulář,
+makra (DAS)
+15. Sestava v MS Access – řazení záznamů, seskupování dat (DAS)

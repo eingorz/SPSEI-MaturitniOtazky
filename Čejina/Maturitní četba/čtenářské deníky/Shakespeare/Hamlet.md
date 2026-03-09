@@ -1,0 +1,67 @@
+# Hamlet
+# Autor
+- *Jméno Autora:* 
+	- William Shakespeare (1564 - 1616)
+- *Zařazení autora do uměleckého směru:* 
+	- Renesance, Humanismus
+- *Určení století, ve kterém autor tvořil:* 
+	- Přelom 16. a 17. století
+- *Životní osudy autora:*
+	- Anglický dramatik, syn rukavičkáře, oženěn v 18ti s Annou Hathaway (26 let) => 3 děti -> Hamnet, Judith, Susan
+	- Kočovní divadelníci, majitel divadla v Londýně (The Globe), Alžbeta I. ho měla ráda či co => alžbětínská literatura
+- *další autoři stejného uměleckého směru:*
+	- Francesco Petrarca, Francois Villon, Dante Alighieri, Geoffrey Chancer, Miguel de Cervantes
+- *názvy dalších autorových děj:*
+	- 37 divadelních her, 154 sonetů
+	- Rome a Julie, Macbeth, Othello, Kupec Benátský, Sen noci svatojanské, Zkrocení Zlé Ženy
+# Charakteristika uměleckého textu jako celku
+- *Druh/Forma/Žánr:* 
+	- drama/veršované drama/tragédie (alžbětínská)
+- *dominantní slohový postup:*
+	- vyprávěcí, úvahový
+- *typ vypravěče/lyrického subjektu:*
+	- ich forma, repliky postav (dialogy) -> obsáhlé filozofické monology
+- *Vysvětlení názvu díla:*
+	- jméno hlavní postavy (princ Hamlet)
+- *Posouzení aktuálnosti díla:*
+	- touha po moci, pomsta, zrada
+- *určení místa a času textu:*
+	- Dánsko - Elsinor, Anglie, Hřbitov, přelom 16. a 17. století
+- *kompozice díla:*
+	- *Textová:* 5 dějství (stejné kulisy), repliky
+	- *Časová:* Chronologická
+- *hlavní téma a dílčí motivy díla:* pomsta, touha po moci | Vražda, Láska, Přetvářka/Šílenství, Sarkasmus, Ironie, Zrada, Existenční otázky (být či nebýt (já v té hodině češtiny :3))
+- *hlavní a vedlejší postavy + stručná charakteristika:*
+	- Hamlet
+		- Dánský princ, hluboce zarmoucený smrtí svého otce. Je intelektuální, filozofický a nerozhodný, jeho touha po pomstě vede k tragédii.
+	- Claudius
+		- Hamletův strýc a nový král Dánska. Ambiciózní a manipulativní, zavraždil Hamletova otce, aby se zmocnil trůnu.
+	- Gertůda
+		- Hamletova matka a vdova po zesnulém králi. Rychle se provdala za Claudia, což Hamleta hluboce raní. Její motivy jsou nejednoznačné.
+	- Duch
+		- Přízrak zavražděného krále Hamleta, který žádá svého syna o pomstu za svou smrt.
+	- Horacio
+		- Hamletův věrný přítel a důvěrník. Zůstává naživu, aby příběh o Hamletově tragédii vyprávěl dál.
+	- Polonius
+		- Komorník na dvoře, otec Ofélie a Laerta. Je upovídaný a manipulativní, ale jeho špehování vede k tragickému omylu.
+	- Laertes
+		- Syn Polonia, impulsivní a vášnivý. Hledá pomstu za smrt svého otce a sestry.
+	- Ofélie
+		- Dcera Polonia a Hamletova milenka. Hamletovo chování a smrt jejího otce ji přivádí k šílenství a sebevraždě.
+	- Herci
+		- Divadelní skupina, kterou Hamlet využije k inscenování hry, jež má odhalit Claudiovu vinu.
+	- Hrobníci
+		- Dva hrobní dělníci, kteří připravují Oféliin hrob. Poskytují černý humor a filozofickou reflexi smrti.
+	- Fortinbras
+		- Norský princ, jehož osud a charakter (cílevědomý, rozhodný, pragmatistický) kontrastuje s Hamletovým. Na konci příběhu přebírá vládu nad Dánskem.
+	- Rosenkrantz a Guildenstern
+		- Hamletovi dětští přátelé, kteří se nechají Claudiem využít ke špehování Hamleta. Nakonec jsou sami oběťmi jeho plánů.
+- *stručné nastínění děje:*
+	- Po smrti dánského krále a nástupu jeho bratra Claudia na trůn se na hradě Elsinor zjevuje králův duch, který Hamletovi prozradí, že byl zavražděn Claudiem. Hamlet se rozhodne pomstít, ale je zmítán pochybnostmi a vlastní nerozhodností. Ve snaze ověřit Claudiovu vinu inscenuje hru, která vraždu ztvárňuje. Claudius se usvědčí svým chováním, ale Hamlet otálí s činem.
+	 - Claudius mezitím plánuje zbavit se Hamleta. Polonius umírá, když ho Hamlet omylem zabije, což vede Ofélii k šílenství a smrti. Laertes a Claudius připraví plán na Hamletovu smrt během šermířského souboje. V závěrečném aktu umírá Gertůda, Claudius, Laertes a Hamlet. Fortinbras přichází na scénu, aby převzal vládu nad zpustošeným královstvím. 
+- *tématicky podobné dílo:*
+	- Švejk (hlavní hrdina předstírá že mu jebe :3)
+- *porovnání s filmovou verzí:*
+	- 1990 - film - Mel Gibson
+	- 2003 - Divadlo Petra Bezruče
+	- Shakespearovsdké slavnosti

@@ -1,0 +1,23 @@
+- próza:
+	- nejstarší období dějin
+		- Staré Pověsti české
+			- beletrizovanný soubor pověstí (o praotci Čechovi, Krokovi...)
+			- prameny - Kosmas, Dalimil, Václav Hájek z Libočan
+	- doba hustistká
+		- Mezi Proudy
+			- trilogie (Dvojí důvr, Syn ohnicův, Do tří hlasů), obraz vlády Václava IV., počáky reformního hnutí
+			- vydání Kutnohorského dekretu
+		- Proti Všem
+			- 3 části (Skokání věků, Kruciata, Boží zástup), rozmach a vrchol husitského hnutá po bitvu na Vítkově hoře (1419-1420)
+		 - Bratrstvo
+			 - Trilogie (Bitva u Lučence, Mária, Žebráci), doznívání husitských válek na Slovensku (bratříci), bitva u Lučence, Jan Jiskra z Brandýsa x Hunyady
+		 - Husitský král
+			 - dvojdílný nedokončený román - o vládě Jiřího z Poděbrad po vznik jednoty bratrské
+		 - Z Čech až na konec světa
+			 - román o mírovém poselstvu Jiřího z Poděbrad do západní Evropy (podle cestopisu Václava Šaška z Bířkova)
+	 - doba pobělohorská
+		 - Temno
+			 - román, období protireformace, působení jezuitů (pater Koniáš) a cizí katolické šlechty v severovýchodních Čechách
+		 - U nás
+			 - tetralogie, románová kronika (Úhor)
+	
