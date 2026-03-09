@@ -45,120 +45,118 @@
 pointerů
 - Dynamické přidělování paměti v C
 - Pointerova aritmetika
- Pointery a funkce
+-  Pointery a funkce
 # 12. Jednorozměrné pole (C)
- Deklarace a charakteristika statického
+-  Deklarace a charakteristika statického
 pole
- Deklarace a charakteristika
+-  Deklarace a charakteristika
 dynamického pole
- Pole jako parametr funkce
- Třídící algoritmus
+-  Pole jako parametr funkce
+-  Třídící algoritmus
 # 13. Vícerozměrné pole (C)
- Deklarace a charakteristika statického
+-  Deklarace a charakteristika statického
 vícerozměrného pole
- Deklarace a charakteristika
+-  Deklarace a charakteristika
 dynamického vícerozměrného pole:
- Pole pointerů
- Pointer na pole
- Pointer na pointer
+	- Pole pointerů
+	- Pointer na pole
+	- Pointer na pointer
 # 14. Znaky a řetězce (C)
- Deklarace a charakteristika znakové
+-  Deklarace a charakteristika znakové
 proměnné
- Charakteristika řetězce v jazyce C
- Základy práce s řetězci
- Funkce pro práci s řetězci
- Parametry funkce main()
+-  Charakteristika řetězce v jazyce C
+-  Základy práce s řetězci
+-  Funkce pro práci s řetězci
+-  Parametry funkce main()
 # 15. Soubory (C)
- Deklarace a charakteristika proměnné
+-  Deklarace a charakteristika proměnné
 pro práci se soubory
- Textové a binární soubory
- Práce se soubory
+-  Textové a binární soubory
+-  Práce se soubory
 # 16. Základy objektově orientovaného
 programování, třídy a objekty (Java)
- Strukturované programování, OOP
- Charakteristika pojmu objekt a třída
- Vlastnosti OOP – zapouzdření,
+-  Strukturované programování, OOP
+-  Charakteristika pojmu objekt a třída
+-  Vlastnosti OOP – zapouzdření,
 dědičnost, polymorfismus
 # 17. Metody (Java)
- Stavba a vlastnosti metody
- Přetížení metod
- Statické metody
+-  Stavba a vlastnosti metody
+-  Přetížení metod
+-  Statické metody
 # 18. Pole a ArrayList (Java)
- Charakteristika a práce
+-  Charakteristika a práce
 s jednorozměrným polem
- Charakteristika a práce
+-  Charakteristika a práce
 s vícerozměrným polem
- Kolekce – charakteristika a práce s
+-  Kolekce – charakteristika a práce s
 ArrayListem
 # 19. Znaky a řetězce (Java)
- Znaková proměnná
- Řetězce – String, StringBuilder/
+-  Znaková proměnná
+-  Řetězce – String, StringBuilder/
 StringBuffer
- Metody pro práci s řetězci
+-  Metody pro práci s řetězci
 # 20. Soubory (Java)
- Práce s adresáři a soubory – třída File
- Znakové proudy – třídy Reader, Writer
- Binární proudy – třídy InputStream,
+-  Práce s adresáři a soubory – třída File
+-  Znakové proudy – třídy Reader, Writer
+-  Binární proudy – třídy InputStream,
 OutputStream
- Buffer…
+-  Buffer…
 # 21. Třídy a objekty – dědičnost (Java)
- Dědičnost a kompozice
- Konstruktory v dědičnosti
- Přístupová práva a dědičnost
- Klíčové slovo final
+-  Dědičnost a kompozice
+-  Konstruktory v dědičnosti
+-  Přístupová práva a dědičnost
+-  Klíčové slovo final
 # 22. Třídy a objekty – rozhraní (Java)
- Rozhraní a jeho konstrukce
- Abstraktní třída
- Využití rozhraní a abstraktní třídy
-23. Java a databáze – DDL, DML
- Nastavení projektu
- Připojení k databázi
- DDL
- DML
-24. Java a databáze – výběrové dotazy
- Nastavení projektu
- Připojení k databázi
- SELECt a jeho části s využitím v Javě
-25.
-
-Tvorba grafického rozhraní aplikací,
+-  Rozhraní a jeho konstrukce
+-  Abstraktní třída
+-  Využití rozhraní a abstraktní třídy
+# 23. Java a databáze – DDL, DML
+-  Nastavení projektu
+-  Připojení k databázi
+-  DDL
+-  DML
+# 24. Java a databáze – výběrové dotazy
+-  Nastavení projektu
+-  Připojení k databázi
+-  SELECt a jeho části s využitím v Javě
+# 25. Tvorba grafického rozhraní aplikací,
 rozmístění (JavaFX)
- Soubory pro tvorbu JavaFX Application
- Základní pojmy – Stage, Scene, Node
- Rozložení
- Práce s komponentami
-26. Tvorba grafického rozhraní aplikací,
+-  Soubory pro tvorbu JavaFX Application
+-  Základní pojmy – Stage, Scene, Node
+-  Rozložení
+-  Práce s komponentami
+# 26. Tvorba grafického rozhraní aplikací,
 Scene Builder (JavaFX)
- Soubory pro tvorbu JavaFXML
+-  Soubory pro tvorbu JavaFXML
 Application
- Prostředí Scene Builder
- Práce s komponentami
-27. Komponenty ze skupiny Controls –
+-  Prostředí Scene Builder
+-  Práce s komponentami
+# 27. Komponenty ze skupiny Controls –
 charakteristika a použití, základní
 vlastnosti a události (JavaFX)
- Komponenty Button, CheckBox,
+-  Komponenty Button, CheckBox,
 RadioButton
- Komponenty Label, TextField, TextArea
- Komponenty ListView, ComboBox
- Komponenta ColorPicker
-28. Komponenty ze skupiny Menu –
+-  Komponenty Label, TextField, TextArea
+-  Komponenty ListView, ComboBox
+-  Komponenta ColorPicker
+# 28. Komponenty ze skupiny Menu –
 charakteristika a použití, základní
 vlastnosti a události (JavaFX)
- Komponenta MenuBar ze skupiny
+-  Komponenta MenuBar ze skupiny
 Controls
- Komponenty Menu, MenuItem
- Komponenty CheckMenuItem,
+-  Komponenty Menu, MenuItem
+-  Komponenty CheckMenuItem,
 RadioMenuItem
- Komponenta Separator
-29. Komponenty pro práci s databází –
+-  Komponenta Separator
+# 29. Komponenty pro práci s databází –
 charakteristika a použití, základní
 vlastnosti a události (JavaFX)
- Připojení k databázi
- Komponenta TableView
- Komponenta TableColumn
- Komponenta TableCell
-30. Třída FileChooser – charakteristika a
+-  Připojení k databázi
+-  Komponenta TableView
+-  Komponenta TableColumn
+-  Komponenta TableCell
+# 30. Třída FileChooser – charakteristika a
 použití, základní vlastnosti a metody
 (JavaFX)
- Vlastnosti
- Použití
+-  Vlastnosti
+-  Použití
