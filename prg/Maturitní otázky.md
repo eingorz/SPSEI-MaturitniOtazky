@@ -116,8 +116,7 @@ OutputStream
 -  Nastavení projektu
 -  Připojení k databázi
 -  SELECt a jeho části s využitím v Javě
-# 25. Tvorba grafického rozhraní aplikací,
-rozmístění (JavaFX)
+# 25. Tvorba grafického rozhraní aplikací, rozmístění (JavaFX)
 -  Soubory pro tvorbu JavaFX Application
 -  Základní pojmy – Stage, Scene, Node
 -  Rozložení
